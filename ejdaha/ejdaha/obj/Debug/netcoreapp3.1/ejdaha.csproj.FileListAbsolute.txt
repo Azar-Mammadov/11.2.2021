@@ -1,0 +1,14 @@
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.exe
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.deps.json
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.runtimeconfig.json
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.runtimeconfig.dev.json
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.dll
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\bin\Debug\netcoreapp3.1\ejdaha.pdb
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.csproj.AssemblyReference.cache
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.AssemblyInfoInputs.cache
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.AssemblyInfo.cs
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.csproj.CoreCompileInputs.cache
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.dll
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.pdb
+C:\Users\tu201806281\Desktop\task2.11.2.21\ejdaha\ejdaha\obj\Debug\netcoreapp3.1\ejdaha.genruntimeconfig.cache
